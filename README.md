@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋, meu nome é Willian!</h2>
+<h1 align="center">Olá👋, meu nome é Willian!</h1>
 
 ###
 
@@ -31,11 +31,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Willianm19/Willianm19/output/snake.svg" alt="Snake animation" />
 
 ###
