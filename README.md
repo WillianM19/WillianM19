@@ -11,8 +11,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
