@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
   <img width="12" />
@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="35" alt="sass logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo"  />
 </div>
