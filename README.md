@@ -1,10 +1,5 @@
 <h1 align="center">Olá👋, meu nome é Willian!</h1>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Willianm19&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -29,5 +24,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo"  />
 </div>
+<br>
 
 ###
+
+Contato: contato.willianm19@gmail.com
