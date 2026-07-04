@@ -27,5 +27,3 @@
 <br>
 
 ###
-
-Contato: contato.willianm19@gmail.com
